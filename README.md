@@ -1,6 +1,6 @@
 <h1 align="center">Hello ! My name is Hansini Leelasena </h1>
 <h3 align="center">I am interested in UI/UX and truly inspiring on it </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=supul-k&label=Profile%20views&color=0e75b6&style=flat" alt="supul-k" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=supul-k&label=Profile%20views&color=0e75b6&style=flat" alt="HansiLeelasena " /> </p>
 
 - 👀 I’m interested in technology, life, and everything
 - 🌱 I’m currently learning UI/UX related Figma, Adobe XD, Sketch, React Native and Flutter
