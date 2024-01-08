@@ -1,4 +1,4 @@
-<h1 align="center">Hello ! </n> My name is Hansini Leelasena </h1>
+<h1 align="center">Hello ! <n> My name is Hansini Leelasena </h1>
 <h3 align="center">I am interested in UI/UX and truly inspiring on it </h3>
 
 - 👀 I’m interested in technology, life, and everything
