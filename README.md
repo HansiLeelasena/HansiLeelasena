@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <src="[https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif](https://github.com/HansiLeelasena/HansiLeelasena/blob/main/github-header-image.jpg)"/>
+     <img src="https://github.com/HansiLeelasena/HansiLeelasena/blob/main/github-header-image.jpg"/>
   Hello ! I am Hansini Leelasena </h1>
 <h3 align="center">I am interested in UI/UX and truly inspiring on it </h3>
 
