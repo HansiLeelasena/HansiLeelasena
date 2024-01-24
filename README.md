@@ -1,4 +1,4 @@
-(https://github.com/HansiLeelasena/HansiLeelasena/blob/main/github-header-image.jpg)
+! (https://github.com/HansiLeelasena/HansiLeelasena/blob/main/github-header-image.jpg)
 <h1 align="center">Hello ! I am Hansini Leelasena </h1>
 <h3 align="center">I am interested in UI/UX and truly inspiring on it </h3>
 
