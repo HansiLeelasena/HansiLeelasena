@@ -1,7 +1,7 @@
 <h1 align="center">Hello ! I am Hansini Leelasena </h1>
 <h3 align="center">I am interested in UI/UX and truly inspiring on it </h3>
 <div align="center">
-  < src="https://github.com/HansiLeelasena/HansiLeelasena/blob/main/github-header-image%20(1).png"/>
+  <src="https://github.com/HansiLeelasena/HansiLeelasena/blob/main/github-header-image%20(1).png"/>
 </div>
 
 - 👀 I’m following technology, life, and everything
