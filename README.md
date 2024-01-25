@@ -21,7 +21,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <h3>Programming Languages</h3>
-									<section class="alt">
+									
 
 									<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
 										alt="java" width="100" height="100"/> </a> 
@@ -43,10 +43,10 @@
 										<path fill="none" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M51 13h-7.99V5.01L51 13zM13 56l-5.01-5H13v5zM51 56l5.01-5H51v5z"></path><path fill="#ee9b40" d="M9 33h46a1 1 0 0 1 1 1v17H8V34a1 1 0 0 1 1-1Z"></path><path fill="none" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 33h46a1 1 0 0 1 1 1v17h0H8h0V34a1 1 0 0 1 1-1Z"></path>
 										<path fill="#fff" d="m25.57 46-1.73-2.54L22.36 46H20.1l2.61-4.21-2.7-4h2.35l1.64 2.5 1.44-2.47h2.26l-2.58 4.12L27.91 46zm12.3-8.12V46h-2v-5.08L34.13 46h-1.71l-1.77-5.09V46h-2v-8.12h2.41l2.21 5.66 2.16-5.66zm3.34 6.61h2.64V46h-4.62v-8.18h2z"></path><path fill="#ee9b40" d="M25.67 24.19c.07.13.13.24.18.35a1 1 0 0 1 .07.33.74.74 0 0 1-.27.59 1 1 0 0 1-.7.24 1.5 1.5 0 0 1-.56-.1c-.32-.22-.66-.47-1-.76L22.24 24l-1.47-1.1-1.34-1a.87.87 0 0 1 .13-1.47l.44-.33.87-.68 1.06-.83 1.07-.84.85-.67a4.69 4.69 0 0 1 .47-.34 1.49 1.49 0 0 1 .56-.13 1 1 0 0 1 .7.25.8.8 0 0 1 .27.6 1 1 0 0 1-.25.68c-.24.19-.54.44-.91.72l-1.14.87-1.05.82-.85.67 4 3zm12.7-.02 4-3-.85-.67-1-.82-1.14-.87c-.37-.28-.67-.53-.91-.72a1 1 0 0 1-.25-.68.8.8 0 0 1 .27-.6 1 1 0 0 1 .7-.25 1.49 1.49 0 0 1 .56.13 4.69 4.69 0 0 1 .47.34l.85.67 1.07.84 1.06.83.87.68.45.35a.87.87 0 0 1 .13 1.47l-1.34 1L41.76 24l-1.13.85c-.36.29-.7.54-1 .76a1.5 1.5 0 0 1-.56.1 1 1 0 0 1-.7-.24.74.74 0 0 1-.27-.59 1 1 0 0 1 .07-.33c.05-.11.11-.22.18-.35zm-4.24-10.36a1.13 1.13 0 0 1 .95-.58 1 1 0 0 1 .68.24.86.86 0 0 1 .29.67.88.88 0 0 1-.06.33l-4 9.17c-.36.82-.72 1.66-1.09 2.52s-.74 1.69-1.1 2.52a1.22 1.22 0 0 1-.46.4 1.37 1.37 0 0 1-.49.11 1 1 0 0 1-.67-.23.86.86 0 0 1-.28-.7A1.87 1.87 0 0 1 28 28l3.93-9.06c.35-.84.73-1.7 1.11-2.57z"></path></svg> 
 									</a>
-									</section> </br>
+									
 
 									<h3>Frameworks and Libraries</h3>
-									<section class="alt">
+									
 
 									<a href="https://boostrap.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" 
 										alt="boostrap" width="100" height="100"/> </a> 
@@ -61,11 +61,10 @@
 									<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" 
 										alt="angularjs" width="100" height="100"/> </a> </br>
 									
-									</section> </br> 
+									
 
 									<h3>Software Skills</h3>
-									<section class="alt">
-
+								
 									<a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" 
 										alt="photoshop" width="100" height="100"/> </a> 
 									<a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
@@ -92,10 +91,10 @@
 									<a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"  
 										alt="wordpress" width="100" height="100"/> </a> </br>
 
-									</section> </br> 
+								
 										
 									<h3>IDE Systems</h3>
-									<section class="alt">
+								
 									
 									<a href="https://netbeans.apache.org/front/main/" target="_blank" rel="noreferrer"> <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" fill="none" viewBox="0 0 25 24" id="apache-netbeans"><rect width="24" height="24" x=".463" fill="url(#paint0_linear_302_4658)" rx="8"></rect><path fill="#fff" fill-rule="evenodd" d="M12.2727 4L5 8V16L12.2727 20L19.5455 16V8L12.2727 4ZM12.2727 7.63636L8.77625 9.54353L12.2727 11.3838L15.7692 9.54353L12.2727 7.63636ZM8.27273 14.1818V10.5113L11.7273 12.3295V16.0661L8.27273 14.1818ZM16.2727 14.1818L12.8182 16.0661V12.3295L16.2727 10.5113V14.1818Z" clip-rule="evenodd"></path>
 										<defs><linearGradient id="paint0_linear_302_4658" x1=".463" x2="24.463" y1="12" y2="12" gradientUnits="userSpaceOnUse"><stop stop-color="#ED6D6B"></stop><stop offset="1" stop-color="#F0B076"></stop></linearGradient></defs></svg>
@@ -109,10 +108,10 @@
 										<path fill="url(#a)" d="M155.728 14.226A77.824 77.824 0 0 0 153.364.451H2.642A77.753 77.753 0 0 0 .276 14.226h155.452z" transform="translate(63.083 99.461)"></path><path fill="url(#b)" d="M155.728 27.02H.278a77.611 77.611 0 0 0 2.364 13.776h150.724a77.821 77.821 0 0 0 2.362-13.776z" transform="translate(63.083 99.461)"></path><path fill="url(#c)" d="M78.003 98.636c31.3 0 58.282-18.441 70.706-45.048H7.297c12.425 26.607 39.405 45.048 70.706 45.048z" transform="translate(63.083 99.461)"></path></g><g fill="#FFF"><path d="M51.84 126.482h203.29c.108-2.035.168-4.084.168-6.147 0-2.232-.081-4.444-.208-6.647H26.885c-.126 2.2-.208 4.415-.208 6.647 0 2.063.06 4.112.168 6.147H51.84zM69.924 87.12H31.252c-1.271 4.166-2.091 8.44-2.879 12.795H253.065a113.52 113.52 0 0 0-3.075-12.795M238.373 140.255H28.371c.766 4.352 1.638 8.623 2.888 12.794H250.738a113.252 113.252 0 0 0 3.023-12.794h-15.388z"></path></g></svg> 
 									</a></br>
 						
-									</section></br>
+									
 
 									<h3>DataBase</h3>
-									<section class="alt">
+									
 									
 									<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
 										alt="mysql" wwidth="100" height="100"/> </a>
@@ -121,20 +120,19 @@
 									<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" 
 										alt="firebase" width="100" height="100"/> </a> </br>
 						
-									</section></br>
+
 
 									<h3>Version Control</h3>
-									<section class="alt">
+									
 									
 									<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  
 										alt="git" wwidth="100" height="100"/> </a>
 									<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
 											alt="mongodb" wwidth="100" height="100"/> </a> </br>
 						
-									</section></br>
+								
 
 									<h3>Operating System</h3>
-									<section class="alt">
 									
 									<a href="https://www.apple.com/macos/sonoma/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"  
 										alt="macos" wwidth="100" height="100"/> </a>
@@ -145,16 +143,16 @@
 									<a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" preserveAspectRatio="xMidYMid" viewBox="0 0 256 257" id="windows"><path fill="#00ADEF" d="M0 36.357L104.62 22.11l.045 100.914-104.57.595L0 36.358zm104.57 98.293l.08 101.002L.081 221.275l-.006-87.302 104.494.677zm12.682-114.405L255.968 0v121.74l-138.716 1.1V20.246zM256 135.6l-.033 121.191-138.716-19.578-.194-101.84L256 135.6z"></path></svg> </a>
 										 </br>
 						
-									</section></br>
+									
 
 									<h3>Server</h3>
-									<section class="alt">
+									
 									
 									<a href="https://www.wampserver.com/en/" target="_blank" rel="noreferrer"> <img src="https://iconspng.com/clipart/wamp-server-logo/wamp-server-logo.svg"  
 										alt="Wamp Server " wwidth="100" height="100"/> </a>
 										 </br>
 						
-									</section></br>
+									
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HansiLeelasena&show_icons=true&locale=en&layout=compact" alt="HansiLeelasena" /></p>
