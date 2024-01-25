@@ -23,7 +23,7 @@
   <h3>Programming Languages</h3>
 									
 
-									<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
 										alt="java" width="100" height="100"/> </a> 
 									<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
 										alt="c" width="100" height="100"/> </a> 
@@ -45,10 +45,10 @@
 									</a>
 									
 
-									<h3>Frameworks and Libraries</h3>
+<h3>Frameworks and Libraries</h3>
 									
 
-									<a href="https://boostrap.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" 
+<a href="https://boostrap.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" 
 										alt="boostrap" width="100" height="100"/> </a> 
 									<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" 
 										alt="nodejs" width="100" height="100"/> </a>  
@@ -62,10 +62,9 @@
 										alt="angularjs" width="100" height="100"/> </a> </br>
 									
 									
-
-									<h3>Software Skills</h3>
+<h3>Software Skills</h3>
 								
-									<a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" 
+<a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" 
 										alt="photoshop" width="100" height="100"/> </a> 
 									<a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
 											alt="Illustrator" width="100" height="100"/> </a> 
@@ -93,10 +92,9 @@
 
 								
 										
-									<h3>IDE Systems</h3>
+<h3>IDE Systems</h3>
 								
-									
-									<a href="https://netbeans.apache.org/front/main/" target="_blank" rel="noreferrer"> <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" fill="none" viewBox="0 0 25 24" id="apache-netbeans"><rect width="24" height="24" x=".463" fill="url(#paint0_linear_302_4658)" rx="8"></rect><path fill="#fff" fill-rule="evenodd" d="M12.2727 4L5 8V16L12.2727 20L19.5455 16V8L12.2727 4ZM12.2727 7.63636L8.77625 9.54353L12.2727 11.3838L15.7692 9.54353L12.2727 7.63636ZM8.27273 14.1818V10.5113L11.7273 12.3295V16.0661L8.27273 14.1818ZM16.2727 14.1818L12.8182 16.0661V12.3295L16.2727 10.5113V14.1818Z" clip-rule="evenodd"></path>
+<a href="https://netbeans.apache.org/front/main/" target="_blank" rel="noreferrer"> <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" fill="none" viewBox="0 0 25 24" id="apache-netbeans"><rect width="24" height="24" x=".463" fill="url(#paint0_linear_302_4658)" rx="8"></rect><path fill="#fff" fill-rule="evenodd" d="M12.2727 4L5 8V16L12.2727 20L19.5455 16V8L12.2727 4ZM12.2727 7.63636L8.77625 9.54353L12.2727 11.3838L15.7692 9.54353L12.2727 7.63636ZM8.27273 14.1818V10.5113L11.7273 12.3295V16.0661L8.27273 14.1818ZM16.2727 14.1818L12.8182 16.0661V12.3295L16.2727 10.5113V14.1818Z" clip-rule="evenodd"></path>
 										<defs><linearGradient id="paint0_linear_302_4658" x1=".463" x2="24.463" y1="12" y2="12" gradientUnits="userSpaceOnUse"><stop stop-color="#ED6D6B"></stop><stop offset="1" stop-color="#F0B076"></stop></linearGradient></defs></svg>
 										</a> 
 									<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"  
@@ -110,10 +108,9 @@
 						
 									
 
-									<h3>DataBase</h3>
+<h3>DataBase</h3>
 									
-									
-									<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
 										alt="mysql" wwidth="100" height="100"/> </a>
 									<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
 											alt="mongodb" wwidth="100" height="100"/> </a>
@@ -122,19 +119,19 @@
 						
 
 
-									<h3>Version Control</h3>
+<h3>Version Control</h3>
 									
 									
-									<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  
 										alt="git" wwidth="100" height="100"/> </a>
 									<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
 											alt="mongodb" wwidth="100" height="100"/> </a> </br>
 						
 								
 
-									<h3>Operating System</h3>
+<h3>Operating System</h3>
 									
-									<a href="https://www.apple.com/macos/sonoma/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"  
+<a href="https://www.apple.com/macos/sonoma/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"  
 										alt="macos" wwidth="100" height="100"/> </a>
 									<a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" 
 											alt="android" wwidth="100" height="100"/> </a>
@@ -145,10 +142,10 @@
 						
 									
 
-									<h3>Server</h3>
+<h3>Server</h3>
 									
 									
-									<a href="https://www.wampserver.com/en/" target="_blank" rel="noreferrer"> <img src="https://iconspng.com/clipart/wamp-server-logo/wamp-server-logo.svg"  
+<a href="https://www.wampserver.com/en/" target="_blank" rel="noreferrer"> <img src="https://iconspng.com/clipart/wamp-server-logo/wamp-server-logo.svg"  
 										alt="Wamp Server " wwidth="100" height="100"/> </a>
 										 </br>
 						
