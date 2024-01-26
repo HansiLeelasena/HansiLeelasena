@@ -145,7 +145,7 @@
 <h3>Server</h3>
 									
 									
-<a href="https://www.wampserver.com/en/" target="_blank" rel="noreferrer"> <img src="https://iconspng.com/clipart/wamp-server-logo/wamp-server-logo.svg"  
+<a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354575/xampp.svg"  
 										alt="Wamp Server " wwidth="100" height="100"/> </a>
 										 </br>
 						
